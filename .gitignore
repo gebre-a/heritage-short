@@ -1,6 +1,16 @@
+# Environment variables
 .env
-.venv/
-__pycache__/
-*.key
-*.key.tmp
+.env.*
+!.env.example
+
+# Runtime logs
+runs.jsonl
+
+# Generated audio and temporary files
 outputs/tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
