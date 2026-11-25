@@ -1,0 +1,103 @@
+{
+    "title": "REPLACE: The Walk to the Market",
+    "language": "REPLACE: Amharic",
+    "style_block": "warm hand-painted illustration, soft film grain, golden-hour palette, gentle light, no text",
+    "character_sheet": "an elderly woman with silver braids, white cotton shawl with a thin green border, deep kind eyes, small blue bead necklace",
+    "music": {
+        "caption": "warm, gentle, sparse acoustic guitar and soft strings, pentatonic feel, calm, instrumental, no strong lead melody",
+        "duration_s": 80,
+        "bpm": 72,
+        "key": "D minor",
+        "seed": 7
+    },
+    "shots": [
+        {
+            "id": "s01",
+            "reason": "Establishing shot: shows where and when the story happens.",
+            "shot_size": "wide",
+            "image_prompt": "wide view of a hillside town at dawn, dirt road, mist, centred",
+            "motion_prompt": "slow gentle push-in, mist drifts",
+            "kb": "zoom_in",
+            "narration": "REPLACE with line 1",
+            "subtitle_en": "Before sunrise, the town was still asleep.",
+            "seed": 1101
+        },
+        {
+            "id": "s02",
+            "reason": "Introduces the main character in a medium shot.",
+            "shot_size": "medium",
+            "image_prompt": "the woman standing at her doorway holding a woven basket, centred",
+            "motion_prompt": "she slowly lifts the basket, camera static",
+            "kb": "pan_right",
+            "narration": "REPLACE with line 2",
+            "subtitle_en": "Every morning my grandmother lifted her basket.",
+            "seed": 1102
+        },
+        {
+            "id": "s03",
+            "reason": "Close-up of hands carries the emotion: her work fed the family.",
+            "shot_size": "close-up",
+            "image_prompt": "close-up of weathered hands tying a cloth bundle, centred",
+            "motion_prompt": "slow push-in, fingers tighten the knot",
+            "kb": "zoom_in",
+            "narration": "REPLACE with line 3",
+            "subtitle_en": "Her hands fed all of us.",
+            "seed": 1103
+        },
+        {
+            "id": "s04",
+            "reason": "The journey: wide shot shows the distance she walked.",
+            "shot_size": "wide",
+            "image_prompt": "the woman walking a long dirt road toward distant hills, small in frame, centred",
+            "motion_prompt": "camera follows slowly, soft wind",
+            "kb": "pan_left",
+            "narration": "REPLACE with line 4",
+            "subtitle_en": "She walked for two hours each way.",
+            "seed": 1104
+        },
+        {
+            "id": "s05",
+            "reason": "The market: sensory detail that makes the place real.",
+            "shot_size": "medium",
+            "image_prompt": "busy colourful market stall with spices and baskets, woman bargaining, centred",
+            "motion_prompt": "gentle sway, people move softly",
+            "kb": "zoom_out",
+            "narration": "REPLACE with line 5",
+            "subtitle_en": "At the market she knew everyone by name.",
+            "seed": 1105
+        },
+        {
+            "id": "s06",
+            "reason": "Insert shot of an object that carries memory.",
+            "shot_size": "insert",
+            "image_prompt": "a worn blue enamel cup on a wooden table, centred, soft window light",
+            "motion_prompt": "steam rises slowly, camera static",
+            "kb": "zoom_in",
+            "narration": "REPLACE with line 6",
+            "subtitle_en": "This cup is all that remains.",
+            "seed": 1106
+        },
+        {
+            "id": "s07",
+            "reason": "Turn of the story: why it matters to the audience today.",
+            "shot_size": "close-up",
+            "image_prompt": "close-up of the woman's smiling face in warm evening light, centred",
+            "motion_prompt": "slight head turn, gentle push-in",
+            "kb": "zoom_in",
+            "narration": "REPLACE with line 7",
+            "subtitle_en": "She taught us that work is a form of love.",
+            "seed": 1107
+        },
+        {
+            "id": "s08",
+            "reason": "Closing image echoes the opening and gives the feeling of the ending.",
+            "shot_size": "wide",
+            "image_prompt": "the woman walking home at sunset on the same road, small in frame, centred",
+            "motion_prompt": "slow pull-back, warm light",
+            "kb": "zoom_out",
+            "narration": "REPLACE with line 8",
+            "subtitle_en": "And every evening, she walked home.",
+            "seed": 1108
+        }
+    ]
+}
